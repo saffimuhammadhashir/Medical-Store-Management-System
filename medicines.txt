@@ -1,0 +1,100 @@
+Cetirizine,Antihistamines,GlaxoSmithKline,2024-02-02,15,500
+Loratadine,Antihistamines,Bayer,2024-03-03,12,400
+Hydroxyzine,Antihistamines,Pfizer,2024-07-07,20,50
+Brompheniramine,Antihistamines,Sanofi,2024-09-09,9,20
+Chlorpheniramine,Antihistamines,Merck,2024-08-08,8,30
+Desloratadine,Antihistamines,Schering-Plough,2024-06-06,18,100
+Levocetirizine,Antihistamines,UCB,2024-05-05,16,200
+Fexofenadine,Antihistamines,Sanofi,2024-04-04,14,300
+Promethazine,Antihistamines,Pfizer,2024-10-10,11,10
+Diphenhydramine,Antihistamines,Johnson & Johnson,2024-01-01,10,600
+Amitriptyline,Antidepressants,Merck,2023-10-10,22,500
+Bupropion,Antidepressants,GlaxoSmithKline,2024-07-30,28,400
+Citalopram,Antidepressants,Lundbeck,2025-08-20,18,500
+Duloxetine,Antidepressants,Eli Lilly,2025-06-15,35,300
+Fluoxetine,Antidepressants,Eli Lilly,2024-11-30,15,600
+Paroxetine,Antidepressants,GlaxoSmithKline,2025-02-20,20,450
+Sertraline,Antidepressants,Pfizer,2025-05-15,20,450
+Venlafaxine,Antidepressants,Pfizer,2026-01-25,30,200
+Escitalopram,Antidepressants,Forest Laboratories,2024-12-10,25,350
+Nortriptyline,Antidepressants,Eli Lilly,2024-03-05,25,250
+Losartan,Cardiovascular,Bayer,2026-01-01,35,600
+Diltiazem,Cardiovascular,Sanofi,2026-04-04,45,300
+Enalapril,Cardiovascular,Pfizer,2026-06-06,40,100
+Amlodipine,Cardiovascular,Novartis,2025-11-11,15,800
+Carvedilol,Cardiovascular,GlaxoSmithKline,2026-02-02,40,500
+Lisinopril,Cardiovascular,Merck,2025-12-12,25,700
+Metoprolol,Cardiovascular,AstraZeneca,2025-10-10,20,900
+Clopidogrel,Cardiovascular,Bristol-Myers Squibb,2026-05-05,60,200
+Propranolol,Cardiovascular,AstraZeneca,2026-03-03,50,400
+Atorvastatin,Cardiovascular,Pfizer,2025-09-09,30,1000
+Insulin,Hormones,Novo Nordisk,2024-12-12,50,450
+Oxytocin,Hormones,Novo Nordisk,2025-08-08,40,50
+Estradiol,Hormones,Pfizer,2025-01-01,15,400
+Thyroxine,Hormones,GlaxoSmithKline,2025-06-06,10,150
+Calcitonin,Hormones,Novartis,2025-07-07,35,100
+Progesterone,Hormones,BioSante Pharmaceuticals,2025-03-03,25,300
+Testosterone,Hormones,Watson Pharmaceuticals,2025-02-02,30,350
+Human Growth Hormone,Hormones,Pfizer,2025-05-05,45,200
+Corticosteroids,Hormones,Merck,2025-04-04,20,250
+Levothyroxine,Hormones,Abbott Laboratories,2024-11-11,5,500
+Covaxin,Vaccines,Bharat Biotech,2025-12-31,30,100
+Covovax,Vaccines,Serum Institute of India,2025-12-31,30,100
+Janssen,Vaccines,Johnson & Johnson,2025-12-31,30,100
+Sinovac,Vaccines,SinoVac Biotech,2025-12-31,30,100
+Spikevax,Vaccines,Moderna,2025-12-31,30,100
+Comirnaty,Vaccines,Pfizer,2025-12-31,30,100
+Nuvaxovid,Vaccines,Novavax,2025-12-31,30,100
+Sinopharm,Vaccines,China National Pharmaceutical Group,2025-12-31,30,100
+Sputnik V,Vaccines,Gamaleya Research Institute,2025-12-31,30,100
+Vaxzevria,Vaccines,AstraZeneca,2025-12-31,30,100
+Acyclovir,Antivirals,GlaxoSmithKline,2023-11-30,20,500
+Ribavirin,Antivirals,Mylan,2025-06-15,45,350
+Tenofovir,Antivirals,Gilead Sciences,2024-03-05,600,120
+Zanamivir,Antivirals,GlaxoSmithKline,2024-12-10,30,200
+Lamivudine,Antivirals,GlaxoSmithKline,2025-02-20,400,250
+Ledipasvir,Antivirals,Gilead Sciences,2023-10-10,1200,80
+Remdesivir,Antivirals,Gilead Sciences,2026-01-25,500,150
+Sofosbuvir,Antivirals,Gilead Sciences,2024-07-30,1000,100
+Oseltamivir,Antivirals,Roche,2025-08-20,35,400
+Valacyclovir,Antivirals,Teva Pharmaceuticals,2024-05-15,25,300
+Cephalexin,Antibiotics,Merck,2025-12-31,20,800
+Penicillin,Antibiotics,GlaxoSmithKline,2025-12-31,50,200
+Vancomycin,Antibiotics,Novartis,2025-12-31,55,100
+Amoxicillin,Antibiotics,GlaxoSmithKline,2025-12-31,10,1000
+Clindamycin,Antibiotics,Pfizer,2025-12-31,30,600
+Doxycycline,Antibiotics,Johnson & Johnson,2025-12-31,35,500
+Ciprofloxacin,Antibiotics,Bayer,2025-12-31,25,700
+Azithromycin,Antibiotics,Pfizer,2025-12-31,15,900
+Erythromycin,Antibiotics,Sanofi,2025-12-31,40,400
+Metronidazole,Antibiotics,Bristol-Myers Squibb,2025-12-31,45,300
+Amphotericin B,Antifungals,Bristol-Myers Squibb,2025-12-31,45,20
+Nystatin,Antifungals,Pfizer,2025-12-31,22,5
+Econazole,Antifungals,Sanofi,2025-12-31,28,2
+Miconazole,Antifungals,Merck,2025-12-31,15,100
+Fluconazole,Antifungals,Pfizer,2025-12-31,25,400
+Terbinafine,Antifungals,Novartis,2025-12-31,40,50
+Clotrimazole,Antifungals,Bayer,2025-12-31,20,500
+Griseofulvin,Antifungals,GlaxoSmithKline,2025-12-31,50,10
+Itraconazole,Antifungals,Johnson & Johnson,2025-12-31,30,300
+Ketoconazole,Antifungals,Novartis,2025-12-31,35,200
+Aspirin,Pain Relievers,Bayer,2025-12-31,15,800
+Codeine,Pain Relievers,Johnson & Johnson,2025-12-31,30,500
+Fentanyl,Pain Relievers,Teva Pharmaceuticals,2025-12-31,50,100
+Morphine,Pain Relievers,Merck,2025-12-31,40,300
+Naproxen,Pain Relievers,Teva Pharmaceuticals,2025-12-31,20,700
+Tramadol,Pain Relievers,Pfizer,2025-12-31,35,400
+Ibuprofen,Pain Relievers,Pfizer,2025-12-31,12,900
+Oxycodone,Pain Relievers,Pfizer,2025-12-31,45,200
+Diclofenac,Pain Relievers,Novartis,2025-12-31,25,600
+Paracetamol,Pain Relievers,Johnson & Johnson,2025-12-31,10,1000
+Aspirin,Anti-inflammatories,Bayer,2025-12-31,80,800
+Naproxen,Anti-inflammatories,Bayer,2025-12-31,100,500
+Sulindac,Anti-inflammatories,Merck,2025-12-31,60,900
+Celecoxib,Anti-inflammatories,Pfizer,2025-12-31,250,200
+Ibuprofen,Anti-inflammatories,Johnson & Johnson,2025-12-31,150,400
+Meloxicam,Anti-inflammatories,Teva Pharmaceuticals,2025-12-31,50,600
+Piroxicam,Anti-inflammatories,Pfizer,2025-12-31,75,700
+Diclofenac,Anti-inflammatories,Novartis,2025-12-31,200,300
+Ketoprofen,Anti-inflammatories,Sanofi,2025-12-31,55,1000
+Indomethacin,Anti-inflammatories,Novartis,2025-12-31,300,100

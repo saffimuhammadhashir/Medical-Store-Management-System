@@ -1,0 +1,14 @@
+hashir,panadol,category,Custom Manager,500,1
+hashir,panadol1,category,Custom Manager,500,1
+hashir,panadol1,category1,Custom Manager,500,1
+hashir,panadol11,category1,Custom Manager1,500,0
+customer3,panadol11,category1,Custom Manager1,500,0
+hashir,Amoxicillin,Antibiotics,muhammad,1,1
+hashir,Amoxicillin,Antibiotics,muhammad,300,1
+hashir,Amoxicillin,Antibiotics,muhammad,200,1
+hashir,Amoxicillin,Antibiotics,muhammad,300,1
+hashir,Amoxicillin,Antibiotics,muhammad,500,1
+hashir,Amoxicillin,Antibiotics,muhammad,500,1
+hashir,Amoxicillin,Antibiotics,muhammad,500,1
+hashir,Amoxicillin,Antibiotics,muhammad,1500,1
+hashir,Enalapril,Cardiovascular,muhammad,1500,1

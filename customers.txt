@@ -1,0 +1,3 @@
+customer3 password3
+customer2 password2
+customer1 password1

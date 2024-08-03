@@ -1,0 +1,4 @@
+hashir hashir12 2500
+customer3 password3 300
+customer2 password2 300
+customer1 password1 300
